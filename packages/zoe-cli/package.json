@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Emlia/zoe/issues"
   },
-  "gitHead": "e6d45b9a06fe5d02a0f44e7e29c791f084b28097"
+  "gitHead": "e6d45b9a06fe5d02a0f44e7e29c791f084b28097",
+  "devDependencies": {
+    "commander": "^9.4.0",
+    "shelljs": "^0.8.5"
+  }
 }

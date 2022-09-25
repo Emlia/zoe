@@ -1,0 +1,12 @@
+{
+	"devDependencies": {
+		"@babel/core": "^7.19.1",
+		"lerna": "^5.5.2",
+		"webpack": "^5.74.0",
+		"webpack-cli": "^4.10.0"
+	},
+	"name": "zoe",
+	"workspaces": [
+		"packages/*"
+	]
+}
